@@ -1,0 +1,125 @@
+.pageheader h1{
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	font-size: 72px;
+	font-weight: 300;
+	color: rgb(26,25,21);
+	text-align: center;
+}	
+
+.pageheader h1 .slim{
+	font-weight: 100;
+}
+
+.nav a {
+  color: rgb(251,253,253);
+  font-size: 32px;/*32**/
+  font-weight: 300;
+  padding: 100px 10px 14px 10px;/*Top, Right, Bottom, Left*/
+  text-transform: uppercase;
+  font-family: 'Lato', sans-serif;
+}
+
+.nav li {
+  display: inline;
+}
+
+
+.nav .pull-right a {
+  color: rgb(183,222,237);
+  font-size: 16px;/*32**/
+  font-weight: 300;
+  padding: 100px 10px 14px 10px;/*Top, Right, Bottom, Left*/
+  text-transform: lowercase;
+  font-family: 'Lato', sans-serif;
+}
+
+.nav .pull-right li {
+  color: rgb(251,253,253);
+  font-size: 16px;/*32**/
+  font-weight: 300;
+  text-transform: uppercase;
+  padding: 100px 10px 14px 10px;/*Top, Right, Bottom, Left*/
+  font-family: 'Lato', sans-serif;
+  /*border: 1px solid rgb(251,253,253);*/
+}
+
+
+.nav {
+	background-color: rgb(83,75,69);
+}
+
+/*
+.jumbotron {
+  background-image:url('http://goo.gl/04j7Nn');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+*/
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h1 {
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+    font-size: 32px;
+	color: rgb(26,25,21);
+	text-align: center;	
+}
+
+.neighborhood-guides p {
+	text-align: center;
+}
+
+.neighborhood-guides a {
+    font-size: 15px;
+    margin-bottom: 13px;
+	/*color: rgb(251,253,253);*/
+	font-size: 24px;/*32**/
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+	/*background-color:  rgb(83,75,69);*/
+}
+
+.neighborhood-guides a span{
+	background-color:  rgb(83,75,69);
+	font-weight: 300;
+}
+
+p.blogbody{
+	text-align: left;
+}
